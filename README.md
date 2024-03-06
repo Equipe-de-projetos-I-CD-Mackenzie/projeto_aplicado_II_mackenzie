@@ -1,6 +1,9 @@
-**Projeto - Disciplina de Projeto Aplicado II**
+# Projeto - Disciplina de Projeto Aplicado II
 
-**Universidade Presbiteriana Mackenzie**
+
+## Universidade Presbiteriana Mackenzie
+
+
 
 **Faculdade de Computação e Informática**
 
@@ -13,7 +16,8 @@
 **Valdo Alvim da Rocha Junior**
 
 
-**Estudos de oportunidades baseadas no Airbnb Open Data RJ**
+
+## **Estudos de oportunidades baseadas no Airbnb Open Data RJ**
 
 
 **São Paulo, 2024**
